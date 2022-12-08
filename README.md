@@ -4,10 +4,8 @@ Backend developer, OSS enthusiast and coffee drinker :coffee:
 
 
 **Here, a few things I'd like to share with you:**
-* I currently work with Java, Kotlin and Node.js applications;
 * I'm passionate about everything Linux-related, and love to spend free time tweaking and messing with my config files;
 * I love exercising, gardening and cooking (might share some of my recipies here sometime 👨‍🍳);
-* I'm currently studying to get certified by Java and taking some canonical readings on Design Patterns;
 
 **What programming languages have I been studying? Glad you asked:**
 * I haven't been messing aroung with the languages I work with in a daily basis;
