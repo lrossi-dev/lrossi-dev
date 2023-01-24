@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo Rossi
 
-Backend developer, OSS enthusiast and coffee drinker :coffee:
+Backend developer, FOSS enthusiast and coffee drinker :coffee:
 
 
 **Here, a few things I'd like to share with you:**
@@ -8,7 +8,9 @@ Backend developer, OSS enthusiast and coffee drinker :coffee:
 * I love exercising, gardening and cooking (might share some of my recipies here sometime 👨‍🍳);
 
 **What programming languages have I been studying? Glad you asked:**
-* I haven't been messing aroung with the languages I work with in a daily basis;
+* Python;
+* Bash;
+* Some automation tools like Ansible;
 * A lot of my projects here are just config files or forks of software that I use a lot;
 
 <div align="center">
