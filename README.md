@@ -14,7 +14,7 @@ Backend developer, FOSS enthusiast and coffee drinker :coffee:
 * A lot of my projects here are just config files or forks of software that I use a lot;
 
 <div align="center">
-  <img style="float: right !important;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrossi-dev&layout=compact&langs_count=6&theme=onedark"/>
+  <img style="float: right !important;" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lrossi-dev&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 
 
